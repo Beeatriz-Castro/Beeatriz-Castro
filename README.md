@@ -2,7 +2,7 @@
 
 💛🐝 Pode me chamar de Be (se pronuncia bi)
 
-🧡🐙 Meu maior objetivo agora é a faculdade UFC em engenharia de software
+🧡🐙 Estudante de engenharia de software na UFC
 
 💖🐞 Atualmente foco no estudo de C-Sharp
 
