@@ -1,13 +1,5 @@
 # Oi, eu sou a Beatriz!!
 
-💛🐝 Pode me chamar de Be (se pronuncia bi)
-
-🧡🐙 Estudante de engenharia de software na UFC
-
-💖🐞 Atualmente foco no estudo de C-Sharp
-
-💙🐳 Meus pronomes são ele/dele e ela/dela, o que você preferir
-
 <div align="center">
   <a href="https://github.com/Beeatriz-Castro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beeatriz-Castro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
